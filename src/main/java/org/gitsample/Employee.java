@@ -5,6 +5,7 @@ public class Employee {
 	private String name;
 	private int age;
 	private int salary;
+	private String address;
 	public String getName() {
 		return name;
 	}
