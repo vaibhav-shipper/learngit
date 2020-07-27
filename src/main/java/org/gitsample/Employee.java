@@ -4,7 +4,7 @@ public class Employee {
 	//Sample change 123
 	private String name;
 	private int age;
-	private int address;
+	
 	public String getName() {
 		return name;
 	}
