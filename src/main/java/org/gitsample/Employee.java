@@ -1,7 +1,7 @@
 package org.gitsample;
 
 public class Employee {
-	
+	//New comment added
 	private String name;
 	private int age;
 	private double salary;
