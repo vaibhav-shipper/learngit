@@ -1,7 +1,7 @@
 package org.gitsample;
 
 public class Employee {
-	//Sample change 124
+	//Sample change 123
 	private String name;
 	private int age;
 	private double salary;
