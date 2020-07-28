@@ -4,7 +4,7 @@ public class Employee {
 	//New comment added
 	private String name;
 	private int age;
-	private double salary;
+	private int salary;
 	private String city;
 
 	public String getName() {
