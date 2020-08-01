@@ -5,7 +5,7 @@ public class Company {
 	private String code;
 	@Override
 	public String toString() {
-		return "Company [name=" + name + ", code=" + code + "]";
+		return " [name=" + name + ", code=" + code + "]";
 	}
 	
 	
