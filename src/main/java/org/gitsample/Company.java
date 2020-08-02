@@ -2,10 +2,10 @@ package org.gitsample;
 
 public class Company {
 	private String name;
-	private String code;
+	private String address;
 	@Override
 	public String toString() {
-		return " [name=" + name + ", code=" + code + "]";
+		return " [name=" + name + ", address=" + address + "]";
 	}
 	
 	
