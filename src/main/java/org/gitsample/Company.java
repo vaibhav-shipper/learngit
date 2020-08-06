@@ -3,7 +3,7 @@ package org.gitsample;
 public class Company {
 	
 	private String name;
-	//Comment 2
+	
 	private String address;
 	private String city;
 	@Override
