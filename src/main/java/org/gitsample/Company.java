@@ -3,7 +3,7 @@ package org.gitsample;
 public class Company {
 	
 	private String name;
-	//Change 1
+	//Change 2
 	
 	private String city;
 	private int salary;
