@@ -2,6 +2,7 @@ package org.gitsample;
 
 public class Company {
 	
+	//Added patch 1
 	private String name;
 	//Change 2
 	
