@@ -1,6 +1,7 @@
 package org.gitsample;
 
 public class Company {
+	//Test Comment
 	
 	private String name;
 	private String address;
