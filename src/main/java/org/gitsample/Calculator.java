@@ -1,7 +1,7 @@
 package org.gitsample;
 
 public class Calculator {
-	//Change 1 feature
+	//Change 2 feature
 	
 	public static int add(int num1, int num2) {
 		int sum = num1 + num2;
