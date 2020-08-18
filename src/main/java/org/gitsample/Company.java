@@ -2,7 +2,7 @@ package org.gitsample;
 
 public class Company {
 	
-	//Change 1
+	//Change 125
 	private String name;
 	private String address;
 	public String getName() {
@@ -17,5 +17,6 @@ public class Company {
 	public void setAddress(String address) {
 		this.address = address;
 	}
+	//Just a comment!
 	
 }
