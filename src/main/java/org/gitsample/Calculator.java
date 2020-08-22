@@ -1,7 +1,7 @@
 package org.gitsample;
 
 public class Calculator {
-	//Change 2
+	
 
 //Change 1
 
