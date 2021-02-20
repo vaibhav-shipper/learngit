@@ -21,7 +21,7 @@ public class Company {
 	public void setAddress(String address) {
 		this.address = address;
 	}
-	//Just a comment!
+	
 	@Override
 	public String toString() {
 		return "Company [name=" + name + ", address=" + address + "]";
