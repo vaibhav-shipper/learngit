@@ -2,7 +2,7 @@ package org.gitsample;
 
 public class Calculator {
 	
-//Test Comment
+//Change 2
 
 	public static int add(int num1, int num2) {
 		int sum = num1 + num2;
