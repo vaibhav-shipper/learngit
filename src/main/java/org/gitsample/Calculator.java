@@ -4,6 +4,7 @@ public class Calculator {
 	
 //Test Comment
 //Comment 1
+//Comment 2	
 	public static int add(int num1, int num2) {
 		int sum = num1 + num2;
 		System.out.println("num1:" + num1 + ",num2:" + num2 + ",sum:" + sum);
