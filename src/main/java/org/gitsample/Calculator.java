@@ -29,6 +29,8 @@ public class Calculator {
 		return result;
 	}
 	
-
+	public static void test()	{
+		
+	}
 
 }
