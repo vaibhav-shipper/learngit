@@ -6,9 +6,12 @@ public class Company {
 	//Change 2
 
 	//Change 1
+	
+	//Change 3
 
 	private String name;
 	private String address;
+	private String city;
 	public String getName() {
 		return name;
 	}
